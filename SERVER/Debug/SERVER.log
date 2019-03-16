@@ -1,0 +1,11 @@
+﻿  SERVER.cpp
+c:\users\1\source\repos\server\server\server.cpp(125): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\1\source\repos\server\server\server.cpp(125): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\1\source\repos\server\server\server.cpp(126): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\1\source\repos\server\server\server.cpp(126): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\1\source\repos\server\server\server.cpp(131): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\1\source\repos\server\server\server.cpp(131): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\1\source\repos\server\server\server.cpp(132): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\1\source\repos\server\server\server.cpp(132): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\1\source\repos\server\server\server.cpp(218): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LPVOID"
+  SERVER.vcxproj -> C:\Users\1\source\repos\SERVER\Debug\SERVER.exe
